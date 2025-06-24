@@ -1,11 +1,11 @@
-# Data Scientist
+# GIS Specialist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: ArcGIS Pro, QGIS, WEB-GIS, JavaScript, Python, SQL
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D, Interested in Ph.D Program							       		
+- Masters, GIS for Environment and Development	| Jahangirnagar University, Savar Bangladesh (_Feb 2023 - Present_)	 			        		
+- Bachelor, Urban and Rural Planning | Khulna University, KHulna Bangladesh (_Jan 2018 - Jan 2023_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
