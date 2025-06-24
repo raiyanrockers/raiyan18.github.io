@@ -1,14 +1,13 @@
 title: Raiyan
 logo: /assets/img/headshot_circle.png
-#description: text below image
-bio              : "I am a dedicated GIS specialist with expertise in planning, spatial analysis, remote sensing, and AI-integrated geospatial modeling, proficient in GIS tools."
-location         : "Dhaka, Bangladesh"
+description: "I am a dedicated GIS specialist with expertise in planning, spatial analysis, remote sensing, and AI-integrated geospatial modeling, proficient in GIS tools."
+location: "Dhaka, Bangladesh"
 #site profiles
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "https://orcid.org/0000-0002-5673-5968"
-  github           : "raiyanrockers"
-  facebook         : "raiyanrockers"
-  linkedin         : "raiyan18"
+  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  orcid: "https://orcid.org/0000-0002-5673-5968"
+  github: "raiyanrockers"
+  facebook: "raiyanrockers"
+  linkedin: "raiyan18"
 show_downloads: true
 theme: jekyll-theme-minimal
 
